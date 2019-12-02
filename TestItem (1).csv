@@ -1,0 +1,6 @@
+name,pid,quantity,length,width,height,volume,weight,truck_type,origin,destination
+fdfd,787,1,2,2,2,85.05,500,Open,Gujarat,Delhi
+B,2,1,2,2,2,85.05,500,Open,Chennai,Gurgaon
+C,3,1,6,5.6,9,302.4,10000,Container,Delhi,Mumbai
+D,4,1,8.75,5.6,6.6,441,1000,Container,Chennai,Gurgaon
+E,5,1,6,5.16,6.6,204.33,3800,Open,Delhi,Mumbai
